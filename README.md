@@ -6,6 +6,6 @@
 SSAFY 5th (2021.01~)**
 
 ## Interesting
-**problem-solving  python  JavaScript  vue.js  react.js **
+**problem-solving  python  JavaScript  vue.js  react.js**
 
 
